@@ -1,0 +1,9 @@
+this and bind in javascript functions 
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind
+
+
+please take a look into the first examples for this and bind keywords from mdn 
+this gives you a complete feel on how to use this and bind keywords
