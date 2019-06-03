@@ -29,3 +29,5 @@ React Events - Handling events in React, also getting to know about how this and
 
 State - Understanding State in react, a mini project in state.
 
+Ajax Requests and Lifecycle Methods	- Working with API's in react using fetch method or axios
+
